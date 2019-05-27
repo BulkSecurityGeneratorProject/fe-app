@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "feApp",
+    "packageName": "com.neighboorhood.feapp",
+    "packageFolder": "com/neighboorhood/feapp",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "NzAzYjJkMTZkNmU2MzcwMzhhMzUwZTUzMzIxNjM2ZGUyNDE5MWExYTA3NDk2OTg2ZTZkMzkxZjAyZTY5YjY4ZDQyZDE2NGNiZWRmMWRjNmY5NjczOTk1N2U2MDkyYjZhNDdjZDEyYzY4YzQwYjY2NGVjMmEzZGZlNTgzMzBhZmU=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "itachiunited",
+  "repository-name": "fe-app"
+}
